@@ -10,7 +10,7 @@
         "bot",
         "link"
     ],
-    "repository": "https://github.com/Wachu985/pruebawachu",
+    "repository": "https://github.com/Dixan99/ftl",
     "env": {
         "API_ID": {
             "description": "Get it from  https://my.telegram.org"
