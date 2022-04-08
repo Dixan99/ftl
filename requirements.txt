@@ -1,0 +1,7 @@
+pip
+pyrogram
+TgCrypto
+Quart
+jinja2
+Hypercorn
+aiohttp
